@@ -12,7 +12,7 @@ presskit_download_link                    : https://www.tellmemo.re             
 app_icon                                  : assets/iconapp.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Tell me more                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : This app will change your life
+app_description                           : Listen to the world like never before
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,9 +34,9 @@ youtube_username                          : tellmemoreapp
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Soon, very soon.
-    description                           : Something is about to change.
-    fontawesome_icon_name                 : magic
+  - title                                 : #Soon, very soon.
+    description                           : #Something is about to change.
+    fontawesome_icon_name                 : #magic
 
 
   - title                                 : # New Feature Title
