@@ -4,6 +4,8 @@ title: Subscribe
 include_in_header: true
 ---
 
+Subscribe and get the first into the beta.
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
